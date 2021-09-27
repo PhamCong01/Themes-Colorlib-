@@ -21,7 +21,7 @@ html {
 }
 .header {
     position:fixed;
-    background-image: url(/image/front-page-header.jpg);
+    background-image: url('https://www.glocal-c.com/wp/wp-content/uploads/2018/08/front-page-header.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -312,7 +312,7 @@ html {
 
 /* slider start */
 .slider__container {
-    background-image: url(/image/backgroundtree.jpg);
+    background-image: url('https://img2.wallspic.com/originals/0/9/4/6/96490-el_norte_de_bosques_de_madera_dura-madera-planta_lenosa-bosque-paisaje_natural-3840x2400.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
